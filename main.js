@@ -91,4 +91,3 @@ setInterval(renderTime, 5000);
 setTimeout(function(){ 
   
 }, 5000);
-function()
