@@ -87,4 +87,8 @@ const renderTime = () => {
 };
 
 // Update time every second
-setInterval(renderTime, 1000);
+setInterval(renderTime, 5000);
+setTimeout(function(){ 
+  
+}, 5000);
+function()
