@@ -88,3 +88,4 @@ const renderTime = () => {
 
 // Update time every second
 setInterval(renderTime, 1000);
+setTimeout
